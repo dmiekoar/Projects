@@ -1,3 +1,4 @@
+
 # Welcome to my github!
 
 
@@ -14,11 +15,12 @@ Here is a list of some projects you find here:
 
 #### Finance 
 
-- [Prediction of bike sharing using Deep Learning](https://github.com/dmiekoar/Projects/blob/master/Fraud%20Detection%20with%20Deep%20Learning.ipynb)
+
 - Credit Risk Analysis
 - ROI Prediction
 - Evaluating Currency Strength
 - Ad Fraud Detection
+- [Fraud Detection with Deep Learning](https://github.com/dmiekoar/Projects/blob/master/Fraud%20Detection%20with%20Deep%20Learning.ipynb)
 
 
 #### Healthcare
@@ -27,7 +29,7 @@ Here is a list of some projects you find here:
 - Predicting Cancer Occurence
 
 
-#### Marketing 
+#### Marketing & Sales
 - Marketing Campaign Analysis
 - [ELO Merchant Category Recommendation](https://github.com/dmiekoar/DSA/tree/master/ELO%20Merchant%20Category%20Recommendation)
 - Movie System Recommendation
@@ -38,9 +40,7 @@ Here is a list of some projects you find here:
 
 #### Transportation
 - Optimizing Fight System
-
-- [Prediction of bike sharing using Deep Learning](https://github.com/dmiekoar/DSA/blob/master/Predicting%20ENERGY%20STAR%20Score.ipynb)
-
+- [Using Neural Networks to predict bike sharing](https://github.com/dmiekoar/Projects/blob/master/Using%20Neural%20Networks%20to%20predict%20bike%20sharing.ipynb)
 
 #### Other
 - Facial Recognition
