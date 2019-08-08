@@ -26,7 +26,7 @@ Here is a list of some projects you find here:
 #### Healthcare
 - Predicting Zika Virus Occurence
 - Forecasting Hospital expenses
-- Predicting Cancer Occurence
+- [Predicting diabetes occurrence](https://github.com/dmiekoar/Projects/blob/master/Predicting%20diabetes%20occurrence.ipynb)
 
 
 #### Marketing & Sales
@@ -36,10 +36,10 @@ Here is a list of some projects you find here:
 - Social Media Analysis
 - [Customer Churn in Telecom Companies](https://github.com/dmiekoar/Projects/blob/master/Customer%20Churn%20in%20Telecom%20Companies.ipynb)
 - [Prediction of Energy Performance in NYC Buildings](https://github.com/dmiekoar/DSA/blob/master/Predicting%20ENERGY%20STAR%20Score.ipynb)
-- Forecast Sales for Drug Stores
+- [Forecast Sales for Drug Stores - Rossman Store Sales](https://github.com/dmiekoar/Projects/blob/master/Rossman%20Store%20Sales.ipynb)
 
 #### Transportation
-- Optimizing Fight System
+- Optimizing Flight System
 - [Using Neural Networks to predict bike sharing](https://github.com/dmiekoar/Projects/blob/master/Using%20Neural%20Networks%20to%20predict%20bike%20sharing.ipynb)
 
 #### Other
