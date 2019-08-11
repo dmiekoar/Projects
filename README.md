@@ -1,4 +1,5 @@
 
+
 # Welcome to my github!
 
 
@@ -25,7 +26,8 @@ Here is a list of some projects you find here:
 
 #### Healthcare
 - Predicting Zika Virus Occurence
-- Forecasting Hospital expenses
+- [Forecasting Hospital Expenses](https://github.com/dmiekoar/Projects/blob/master/Forecasting%20Hospital%20Expenses.ipynb)
+- [Breast Cancer Diagnostic](https://github.com/dmiekoar/Projects/blob/master/Breast%20Cancer%20Diagnostic.ipynb)
 - [Predicting diabetes occurrence](https://github.com/dmiekoar/Projects/blob/master/Predicting%20diabetes%20occurrence.ipynb)
 
 
