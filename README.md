@@ -16,8 +16,7 @@ Here is a list of some projects you find here:
 
 #### Finance 
 
-
-- Credit Risk Analysis
+- [Credit Risk Analysis](https://github.com/dmiekoar/Projects/blob/master/Credit%20Risk%20Analysis.ipynb)
 - ROI Prediction
 - Evaluating Currency Strength
 - Ad Fraud Detection
@@ -43,11 +42,15 @@ Here is a list of some projects you find here:
 #### Transportation
 - Optimizing Flight System
 - [Using Neural Networks to predict bike sharing](https://github.com/dmiekoar/Projects/blob/master/Using%20Neural%20Networks%20to%20predict%20bike%20sharing.ipynb)
+- [Autonomous driving application - Car detection](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 
-#### Other
-- Facial Recognition
-- Spam Classifier
-- Logs Processing
-- Predictive Modelling in IoT
-
+#### Other (Machine Learning/ Deep Learning)
+- [Building your Deep Neural Network - Step+by+Step](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
+- [Building a Recurrent Neural Network - Step by Step](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Sequence%20Models/Week1/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+- [Deep Neural Network - Application](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application%20-%20Image%20Classification/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+- [Planar data classification with one hidden layer](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
+- [Logistic Regression with a Neural Network mindset](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv6.ipynb)
+- [Art Generation with Neural Style Transfer](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+- [Face Recognition for the Happy House](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+- [Dinosaurus Island](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Sequence%20Models/Week1/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
 
