@@ -1,5 +1,4 @@
 
-
 # Welcome to my github!
 
 
@@ -42,6 +41,7 @@ Here is a list of some projects you find here:
 #### Transportation
 - Optimizing Flight System
 - [Using Neural Networks to predict bike sharing](https://github.com/dmiekoar/Projects/blob/master/Using%20Neural%20Networks%20to%20predict%20bike%20sharing.ipynb)
+- [Belgian Traffic Sign Detection - CNN swith Keras](https://github.com/dmiekoar/Projects/blob/master/Belgian%20Traffic%20Sign%20Detection%20with%20Keras/Belgian%20Traffic%20Sign%20Detection%20with%20Keras.ipynb)
 - [Autonomous driving application - Car detection](https://github.com/dmiekoar/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 
 #### Other (Machine Learning/ Deep Learning)
